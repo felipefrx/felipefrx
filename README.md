@@ -12,6 +12,7 @@
 </div>
 
 ### Languages and tools
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Felipe-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
@@ -23,6 +24,8 @@
 </div>
 
 ##
+  
+### Social
   
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
