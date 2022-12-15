@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/felipefrx">
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipefrx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefrx&layout=compact&langs_count=7&theme=dark"/>
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefrx&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 
 ### Languages and tools
