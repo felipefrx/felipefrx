@@ -1,4 +1,4 @@
-### Hi. i'm Felipe Ferreira! 👋
+## Hi. i'm Felipe Ferreira! 👋
 
 - 🔭 I’m currently working on DevOps
 - 🌱 I’m currently learning AWS
@@ -11,6 +11,7 @@
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefrx&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+### Languages and tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Felipe-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
