@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on DevOps
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me: silvaferreirafelipe@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: him/his
 
 <div align="center">
   <a href="https://github.com/felipefrx">
