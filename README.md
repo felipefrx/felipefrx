@@ -1,4 +1,4 @@
-## Hi. i'm Felipe Ferreira! 👋
+## Hi. I'm Felipe Ferreira! 👋
 
 - 🔭 I’m currently working on DevOps
 - 🌱 I’m currently learning AWS
