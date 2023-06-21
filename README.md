@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on DevOps
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me: silvaferreirafelipe@gmail.com
-- 😄 Pronouns: him/his
 
 
 ### Languages and tools
